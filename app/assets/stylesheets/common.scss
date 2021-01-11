@@ -1,0 +1,51 @@
+header{
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 30px;
+    background-color:#c52f24;
+    color:white;
+}
+
+footer{
+    width: 100%;
+    padding: 15px;
+    margin-top: 30px;
+    background-color:#c52f24;
+    color:white;
+}
+
+table th {
+    background-color: #ffdfdf;
+    padding: 10px 20px;
+}
+
+table td {
+    background-color: #f1c8c861;
+    padding: 10px 20px;
+}
+
+.check{
+    display:block;
+    text-align:center;
+    color:red;
+    width:100%;
+}
+
+.notice {
+    background-color: #ccf;
+    padding: 5px;
+}
+
+.posts-content {
+    width: 350px;
+    height: 200px;
+}
+
+.memo{
+    height:200px;
+    width:400px;
+}
+.center{
+    width:100%;
+    text-align:center;
+}
